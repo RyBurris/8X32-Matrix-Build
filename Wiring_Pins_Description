@@ -1,0 +1,9 @@
+// #define MAX_DEVICES 4     // # of your 8x8 LED Matrix modules (I have 4)
+
+// #define CLK_PIN 13        // From the CLK pin on your LED Matrix to Arduino
+
+// #define DATA_PIN 11       // From the DIN / DATA pin on your LED Matrix to Arduino
+
+// #define CS_PIN 10         // From the CS pin on LED Matrix to Arduino
+
+// #define HARDWARE_TYPE MD_MAX72XX::FC16_HW
